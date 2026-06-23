@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Oficce 67AI
 - 🌱 I’m currently learning Pycharm
 - 👯 I’m looking to collaborate on Chatqpt
